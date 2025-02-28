@@ -73,7 +73,7 @@ npm run lint
 Deploy instantly with Vercel:
 
 <p align="center">
-  <a href="https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/code3-dev/todo-list">
+  <a href="https://vercel.com/new/clone?repository-url=https://github.com/code3-dev/todo-list">
     <img src="https://vercel.com/button" alt="Deploy with Vercel"/>
   </a>
 </p>
