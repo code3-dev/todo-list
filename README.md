@@ -91,7 +91,6 @@ Edit the following files as needed:
 
 ## 📬 Contact
 
-📧 [Your Email]  
 - Author: Hossein Pira
 - Email: [h3dev.pira@gmail.com](mailto:h3dev.pira@gmail.com)
 - Telegram: [@h3dev](https://t.me/h3dev)
